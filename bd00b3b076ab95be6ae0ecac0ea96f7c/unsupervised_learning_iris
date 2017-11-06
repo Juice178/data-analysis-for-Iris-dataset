@@ -5,7 +5,7 @@
    "metadata": {},
    "source": [
     "<h1>Unsupervied Learning</h1>\n",
-    "<h3>In this notebook we will conduct  unsupervied learning for Iris datasets</h3>\n",
+    "<h3>In this notebook we will conduct  Unsupervied Learning for Iris datasets</h3>\n",
     "\n",
     "<p><a href=\"https://archive.ics.uci.edu/ml/datasets/iris\">Data from Fisher, 1936</a></p>\n",
     "\n",
@@ -37,7 +37,7 @@
    "source": [
     "<h3>What is Unsupervised Learning?</h3>\n",
     "\n",
-    "<img src=\"images/naruto_question.jpg\"\n",
+    "<img src=\"../images/naruto_question.jpg\"\n",
     " alt=\"Naruto\" style=\"width:300px\"><p><a href=\"https://www.pinterest.com/explore/naruto-uzumaki/\">Modified image from Naruto uzumaki Pinterest.</a></p>\n",
     "<p> It is a way of extracting useful knowlege from the data <strong>\"without any label\"</strong> or a way of transforming the data into meaningful format.<br>\n",
     "    The emphasis is <strong>\"without any label\"</strong>. This contrasts with Supervised Learning where we will predict the label on the testing sets from the training sets with the labels. </p>"
@@ -852,7 +852,7 @@
     "correlation between each feature.</p>\n",
     "\n",
     "\n",
-    "<p><img src=\"images/sakura_viz.jpg\" alt=\"sakura\" style=\"width:400px;height:400px;\"></p>\n",
+    "<p><img src=\"../images/sakura_viz.jpg\" alt=\"sakura\" style=\"width:400px;height:400px;\"></p>\n",
     "<p><a href=\"http://springtimeofyouth.wikia.com/wiki/Sakura_Haruno\">Image from Fandom</a></p>"
    ]
   },
@@ -977,7 +977,7 @@
     "<p>We will transform the data into an appropriate distribution.<br>\n",
     "We will also detect outliers and deal with them.</p>\n",
     "\n",
-    "<img src=\"images/sasuke_preprocessing.jpg\" alt=\"sasuke\" style=\"width:400px;height:300px;\" >\n",
+    "<img src=\"../images/sasuke_preprocessing.jpg\" alt=\"sasuke\" style=\"width:400px;height:300px;\" >\n",
     "<p><a href=\"http://naruto.wikia.com/wiki/Sasuke%27s_Ninja_Way\">Modified image from Sasuke's Ninja Way</a></p>"
    ]
   },
@@ -1785,7 +1785,7 @@
     "<p>We could use the finings and explore other techniques on this datasets\n",
     "such as other clustering methods or conduct supervised learning with data whose features are reduced by PCA</p>\n",
     "<p>\n",
-    "    <img src=\"https://static.tumblr.com/9b9f3618561be78b5ea88462957d2cab/shr1rta/9g8o5li8o/tumblr_static_tumblr_static_filename_640.png\" alt=\"rock lee and neji\"></a></p>\n",
+    "    <img src=\"https://static.tumblr.com/9b9f3618561be78b5ea88462957d2cab/shr1rta/9g8o5li8o/tumblr_static_tumblr_static_filename_640.png\" alt=\"../rock lee and neji\"></a></p>\n",
     "<p> <a href=\"https://www.tumblr.com/search/naruto%20spinoff\">Image from NARUTO SPINOFF</a></p>"
    ]
   },
